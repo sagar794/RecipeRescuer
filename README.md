@@ -3,8 +3,8 @@
 #### CSCE 489 Data Science Fall 2016
 #### Final Project - RecipeRescuer
 #### Team Pie-thon members: Amy Kruzick, Jacqueline Vital, Sagar Ali
-#### Link to website: https://github.tamu.edu/pages/sagar794/RecipeRescuer/
-#### Link to video: *TODO*
+#### [Link to website] (https://github.tamu.edu/pages/sagar794/RecipeRescuer/)
+#### [Link to video](https://www.youtube.com/watch?v=cK_lCIINXWM&feature=youtu.be)
 
 ##### Packages used
 This project uses pandas, matplotlib, networkX, and numpy.
